@@ -7,7 +7,7 @@ Works are underway to create a COVID-19 vaccine, building on the success of vacc
 
 Although it might take several months before COVID-19 vaccines are universally accessible, it's crucial to presently and particularly in the future, when COVID-19 vaccines become accessible, keep a close watch on public attitudes toward vaccinations. The presence of anti-vaccination sentiments could critically jeopardize the sustained global endeavor to effectively manage COVID-19 in the long run.
 
-==The objective of this challenge is to develop a machine learning model to assess if a Twitter post related to vaccinations is positive, neutral, or negative. This model will be deployed using streamlit on a Docker Container.==
+**The objective of this challenge is to develop a machine learning model to assess if a Twitter post related to vaccinations is positive, neutral, or negative. This model will be deployed using streamlit on a Docker Container.**
 
 # Dataset
 _______________________________________________________________________________________
