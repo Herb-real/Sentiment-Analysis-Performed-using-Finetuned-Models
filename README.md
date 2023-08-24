@@ -59,5 +59,6 @@ ________________________________________________________________________________
 1. Quick intro to NLP
 2. Getting Started With Hugging Face in 15 Minutes
 3. Fine-tuning a Neural Network explained
-4. Fine-Tuning-DistilBert - Hugging Face Transformer for Poem Sentiment  5. Prediction | NLP
+4. Fine-Tuning-DistilBert - Hugging Face Transformer for Poem Sentiment  
+5. Prediction | NLP
 6. Introduction to NLP: Playlist
