@@ -56,7 +56,7 @@ ________________________________________________________________________________
 
 # Resources
 _________________________________________________________________________________________________
-1. Quick intro to NLP
+1. [Quick intro to NLP], (https://www.youtube.com/watch?v=CMrHM8a3hqw)
 2. Getting Started With Hugging Face in 15 Minutes
 3. Fine-tuning a Neural Network explained
 4. Fine-Tuning-DistilBert - Hugging Face Transformer for Poem Sentiment  
