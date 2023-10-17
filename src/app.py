@@ -108,7 +108,7 @@ def sentiment_analysis(text):
 # Streamlit app layout with two columns
 st.title("Sentiment Analysis App")
 st.write(" Sentiment analysis, also known as opinion mining, is the process of determining the emotional tone or sentiment expressed in text data, whether it's positive,negative, or neutral")
-st.image("assets/sent_emoji.png", caption="Sentiments examples", use_column_width=True)
+st.image("Assets/sent_emoji.png", caption="Sentiments examples", use_column_width=True)
 
 # Input text area for user to enter a tweet in the left column
 input_text = st.text_area("Write your tweet here...")
