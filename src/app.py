@@ -139,36 +139,6 @@ if st.button("Analyze Sentiment"):
         st.text(f"Sentiment: {sentiment_readable}")
 
 # Button to Clear the input text
-if st.button("Clear Input"):PS C:\Users\LPM\Desktop\Sentiment-Analysis-Performed-using-Finetuned-Models> & C:/Users/LPM/AppData/Local/Microsoft/WindowsApps/python3.11.exe
-Python 3.11.6 (tags/v3.11.6:8b6ee5b, Oct  2 2023, 14:57:12) [MSC v.1935 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license" for more information.
->>> 
->>> 
->>> & C:/Users/LPM/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/LPM/Desktop/Sentiment-Analysis-Performed-using-Finetuned-Models/src/sentiment_app.py
-  File "<stdin>", line 1
-    & C:/Users/LPM/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/LPM/Desktop/Sentiment-Analysis-Performed-using-Finetuned-Models/src/sentiment_app.py
-    ^
-SyntaxError: invalid syntax
->>> & C:/Users/LPM/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/LPM/Desktop/Sentiment-Analysis-Performed-using-Finetuned-Models/src/sentiment_app.py
-  File "<stdin>", line 1
-    & C:/Users/LPM/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/LPM/Desktop/Sentiment-Analysis-Performed-using-Finetuned-Models/src/sentiment_app.py
-    ^
-SyntaxError: invalid syntax
->>> & C:/Users/LPM/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/LPM/Desktop/Sentiment-Analysis-Performed-using-Finetuned-Models/src/sentiment_app.py
-  File "<stdin>", line 1
-    & C:/Users/LPM/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/LPM/Desktop/Sentiment-Analysis-Performed-using-Finetuned-Models/src/sentiment_app.py
-    ^
-SyntaxError: invalid syntax
->>> & C:/Users/LPM/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/LPM/Desktop/Sentiment-Analysis-Performed-using-Finetuned-Models/src/sentiment_app.py
-  File "<stdin>", line 1
-    & C:/Users/LPM/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/LPM/Desktop/Sentiment-Analysis-Performed-using-Finetuned-Models/src/sentiment_app.py
-    ^
-SyntaxError: invalid syntax
->>> & C:/Users/LPM/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/LPM/Desktop/Sentiment-Analysis-Performed-using-Finetuned-Models/src/sentiment_app.py
-  File "<stdin>", line 1
-    & C:/Users/LPM/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/LPM/Desktop/Sentiment-Analysis-Performed-using-Finetuned-Models/src/sentiment_app.py
-    ^
-SyntaxError: invalid syntax
->>>
+if st.button("Clear Input"):
     input_text = ""
     
