@@ -1,11 +1,13 @@
-Sentiment Analysis Explained?
+**Sentiment Analysis Explained?**
+
 Sentiment analysis, a natural language processing approach, is employed to ascertain the emotional underpinning of a collection of words, phrases, or sentences.
 
 In recent years, sentiment analysis has surged in prominence across diverse domains, including customer service, brand surveillance, and the scrutiny of social media content.
 
 The utilization of pre-trained language models like BERT (Bidirectional Encoder Representations from Transformers) has streamlined the execution of sentiment analysis tasks. This article delves into the process of fine-tuning a pre-trained BERT model for sentiment analysis using Hugging Face and subsequently uploading it to the Hugging Face model repository.
 
-What is the rationale behind choosing Hugging Face?
+**What is the rationale behind choosing Hugging Face?**
+
 Hugging Face serves as a comprehensive platform equipped with an array of tools and resources tailored for natural language processing (NLP) and machine learning tasks.
 
 Its user-friendly interface and an extensive array of pre-trained models, datasets, and libraries make it a valuable resource for data analysts, developers, and researchers.
@@ -20,7 +22,8 @@ Please, go to the website and sign in to access all the features of the platform
 
 Read more about Text classification with Hugging Face
 
-Leveraging GPU Runtime within Google Colab
+**Leveraging GPU Runtime within Google Colab**
+
 Prior to delving into the code, it is crucial to comprehend the reasons behind employing GPU runtime on Google Colab is beneficial.
 
 GPU, which is an abbreviation for Graphics Processing Unit, is robust hardware developed for managing intricate graphics and computations.
@@ -38,7 +41,7 @@ This choice enables us to make the most of the GPU’s capabilities and signific
 
 changing runtime to GPU
 
-Setup
+**Setup**
 With a grasp of the GPU’s significance, let’s move on to the code. Our first step involves the installation of the transformers library, a Python library created by Hugging Face.
 
 This library offers a range of pre-trained models and utilities for fine-tuning them. Additionally, we will install any other necessary dependencies.
@@ -136,7 +139,7 @@ This would be a web application that your users can interact with in order to ma
 
 
 
-Conclusion
+**Conclusion**
 In summary, we have refined a pre-existing model for sentiment analysis using the Hugging Face library on a dataset. Following ten training epochs, the model attained a validation set root mean square error (RMSE) score of 0.659.
 
 Find all the code for this project below.
